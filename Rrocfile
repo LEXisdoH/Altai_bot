@@ -1,0 +1,2 @@
+worker: python Altay.py
+web: python -m http.server $PORT
